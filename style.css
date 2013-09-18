@@ -1,0 +1,13 @@
+	/*
+	Author: Oskar Bohlin
+	Contact: oskar.bohlin@gmail.com
+	Description: En grundläggande css.
+	*/ 
+	
+	body{
+	background-color: #00d2ff;
+	width: 100%;	
+	}
+	#container{
+		border: 1px solid #000000;
+	}
